@@ -11,5 +11,5 @@ print(findDevice())
 result:
 {'1': ['001:011', 'Samsung Electronics Co., Ltd SAMSUNG_Android']}
 
-#Note
+# Note
 By default, the port ID is 04e8:6862, which you should change according to your needs.
