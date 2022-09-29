@@ -4,7 +4,7 @@ Get is a library for Python that can be used to get the USB port number connecte
 # Usage
 from findDevice import findDevice
 
-#Example
+# Example
 from findDevice import findDevice
 print(findDevice())
 
