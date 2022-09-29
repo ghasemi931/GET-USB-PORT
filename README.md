@@ -1,5 +1,5 @@
 # GET_USB_PORT
-findDevice is a library for Python that can be used to get the USB port number connected to the device.
+findDevice is a library for Python that can be used to get the USB port number connected to the device.(only linux)
 
 # Usage
 from findDevice import findDevice
