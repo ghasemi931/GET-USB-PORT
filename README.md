@@ -6,6 +6,7 @@ from findDevice import findDevice
 
 # Example
 from findDevice import findDevice
+
 print(findDevice())
 
 result:
